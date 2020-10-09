@@ -14,9 +14,9 @@
 ###### STATS 100C: Linear Models
 ##### MATH
 ###### Math 115A: Linear Algebra
-###### Math 131A Analysis
-###### Math 132 Complex Analysis
-###### Math 156 Machine Learning
+###### Math 131A: Analysis
+###### Math 132: Complex Analysis
+###### Math 156: Machine Learning
 
 # PLANNED CLASSES
 ##### MATH
