@@ -1,4 +1,7 @@
 # REPOSITORIES
+
+[//]: # "# OPEN SOURCE"
+
 ## UCLA
 ### COMPUTER SCIENCE
 #### Com Sci 111: Operating Systems Pricipals
