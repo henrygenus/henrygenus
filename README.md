@@ -19,7 +19,7 @@
    * ###### Math 132: Complex Analysis
    * ###### Math 156: Machine Learning
 
-# PLANNED CLASSES
+### PLANNED CLASSES
 ##### MATH
   * ###### Math 114L: Mathematical Logic
   * ###### Math 151A: Applied Numerical Methods
