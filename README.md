@@ -19,14 +19,14 @@
 ###### Math 156: Machine Learning
 
 # PLANNED CLASSES
-##### MATH
-###### Math 114L: Mathematical Logic
-###### Math 151A: Applied Numerical Methods
-###### Math 151B: Applied Numerical Methods
-##### COMPUTER SCIENCE
-###### Com Sci 130: Software Engineering
-###### Com Sci 136: Introduction to Computer Security
-###### Com Sci 181: Intro to Formal Languages and Automata Theory
+* ##### MATH
+  * ###### Math 114L: Mathematical Logic
+  * ###### Math 151A: Applied Numerical Methods
+  * ###### Math 151B: Applied Numerical Methods
+* ##### COMPUTER SCIENCE
+  * ###### Com Sci 130: Software Engineering
+  * ###### Com Sci 136: Introduction to Computer Security
+  * ###### Com Sci 181: Intro to Formal Languages and Automata Theory
 
 
 <!--
