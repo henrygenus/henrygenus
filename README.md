@@ -8,22 +8,20 @@
 #### Com Sci 161: Fundamentals of Artificial Intelligence
 #### Com Sci 180: Introduction to Algorithms and Complexity
 #### CLASS
-##### STATISTICS
-###### STATS 100A: Intro to Probability
-###### STATS 100B: Intro to Mathematical Statistics
-###### STATS 100C: Linear Models
-##### MATH
-###### Math 115A: Linear Algebra
-###### Math 131A: Analysis
-###### Math 132: Complex Analysis
-###### Math 156: Machine Learning
+   * ###### STATS 100A: Intro to Probability
+   * ###### STATS 100B: Intro to Mathematical Statistics
+   * ###### STATS 100C: Linear Models
+   * ###### Math 115A: Linear Algebra
+   * ###### Math 131A: Analysis
+   * ###### Math 132: Complex Analysis
+   * ###### Math 156: Machine Learning
 
 # PLANNED CLASSES
-* ##### MATH
+##### MATH
   * ###### Math 114L: Mathematical Logic
   * ###### Math 151A: Applied Numerical Methods
   * ###### Math 151B: Applied Numerical Methods
-* ##### COMPUTER SCIENCE
+##### COMPUTER SCIENCE
   * ###### Com Sci 130: Software Engineering
   * ###### Com Sci 136: Introduction to Computer Security
   * ###### Com Sci 181: Intro to Formal Languages and Automata Theory
