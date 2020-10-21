@@ -31,13 +31,13 @@
   
 ## PROGRESSION
 In looking through my code, one may notice some specific idiosyncrasies and variable style choices. As it is too much code for me to go back and stylize more choices, I believe it prudent to list the order I took the classes in, so that readers can see relevance and development. What follows is the order I took classes in, with the logical '&' to represent concurrency.
-* Com Sci 32
-* Com Sci 111 & Com Sci 180
-* Com Sci 131 & Com Sci 161
-* Com Sci 118 & Com Sci 132
+#### Com Sci 32
+#### Com Sci 111 & Com Sci 180
+#### Com Sci 131 & Com Sci 161
+#### Com Sci 118 & Com Sci 132
 Additionally, I plan to take:
-* Com Sci 136 & Com Sci 181
-* Com Sci 130
+#### Com Sci 136 & Com Sci 181
+#### Com Sci 130
 
 
 <!--
