@@ -35,9 +35,6 @@ In looking through my code, one may notice some specific idiosyncrasies and vari
 #### Com Sci 111 & Com Sci 180
 #### Com Sci 131 & Com Sci 161
 #### Com Sci 118 & Com Sci 132
-Additionally, I plan to take:
-#### Com Sci 136 & Com Sci 181
-#### Com Sci 130
 
 
 <!--
