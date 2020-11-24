@@ -19,16 +19,6 @@
    * ###### Math 132: Complex Analysis
    * ###### Math 156: Machine Learning
 
-### PLANNED CLASSES
-##### MATH
-  * ###### Math 114L: Mathematical Logic
-  * ###### Math 151A: Applied Numerical Methods
-  * ###### Math 151B: Applied Numerical Methods
-##### COMPUTER SCIENCE
-  * ###### Com Sci 130: Software Engineering
-  * ###### Com Sci 136: Introduction to Computer Security
-  * ###### Com Sci 181: Intro to Formal Languages and Automata Theory
-  
 ## PROGRESSION
 In looking through my code, one may notice some specific idiosyncrasies and variable style choices. As it is too much code for me to go back and stylize more choices, I believe it prudent to list the order I took the classes in, so that readers can see relevance and development. What follows is the order I took classes in, with the logical '&' to represent concurrency.
 #### Com Sci 32
