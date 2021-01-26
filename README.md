@@ -23,7 +23,7 @@
    * ###### Math 151A: Applied Numerical Methods
 
 ## PROGRESSION
-In looking through my code, one may notice some specific idiosyncrasies and variable style choices. As it is too much code for me to go back and stylize more choices, I believe it prudent to list the order I took the classes in, so that readers can see relevance and development. What follows is the order I took classes in, with the logical '&' to represent concurrency.
+In looking through my code, one may notice some specific idiosyncrasies and variable style choices. As it is too much code for me to go back and stylize more choices, I believe it prudent to list the order I took the classes in, so that readers can see relevance and development. What follows is the order I took classes in, with the logical '&' to represent concurrency. Often, however, choices are a result of the particular lecture or programming style of the professor.
 #### Com Sci 32
 #### Com Sci 111 & Com Sci 180
 #### Com Sci 131 & Com Sci 161
